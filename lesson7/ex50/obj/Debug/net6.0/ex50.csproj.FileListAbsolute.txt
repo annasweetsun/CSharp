@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\GB\C#\seminar7\ex50\bin\Debug\net6.0\ex50.exe
+C:\Users\HP\Desktop\GB\C#\seminar7\ex50\bin\Debug\net6.0\ex50.deps.json
+C:\Users\HP\Desktop\GB\C#\seminar7\ex50\bin\Debug\net6.0\ex50.runtimeconfig.json
+C:\Users\HP\Desktop\GB\C#\seminar7\ex50\bin\Debug\net6.0\ex50.dll
+C:\Users\HP\Desktop\GB\C#\seminar7\ex50\bin\Debug\net6.0\ex50.pdb
+C:\Users\HP\Desktop\GB\C#\seminar7\ex50\obj\Debug\net6.0\ex50.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\GB\C#\seminar7\ex50\obj\Debug\net6.0\ex50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\GB\C#\seminar7\ex50\obj\Debug\net6.0\ex50.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\GB\C#\seminar7\ex50\obj\Debug\net6.0\ex50.AssemblyInfo.cs
+C:\Users\HP\Desktop\GB\C#\seminar7\ex50\obj\Debug\net6.0\ex50.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\GB\C#\seminar7\ex50\obj\Debug\net6.0\ex50.dll
+C:\Users\HP\Desktop\GB\C#\seminar7\ex50\obj\Debug\net6.0\refint\ex50.dll
+C:\Users\HP\Desktop\GB\C#\seminar7\ex50\obj\Debug\net6.0\ex50.pdb
+C:\Users\HP\Desktop\GB\C#\seminar7\ex50\obj\Debug\net6.0\ex50.genruntimeconfig.cache
+C:\Users\HP\Desktop\GB\C#\seminar7\ex50\obj\Debug\net6.0\ref\ex50.dll
